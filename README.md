@@ -1,5 +1,6 @@
 - 👋 Hi, I’m dakshina
-- 🌱 I’m currently learning C++ | javascript
+-  SKILLS - C|HTML|CSS|Javascript|Basics of Python|NodeJs
+- 🌱 I’m currently learning C++ | Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me > https://www.linkedin.com/in/dakshina-budholia-3a1717236
                
